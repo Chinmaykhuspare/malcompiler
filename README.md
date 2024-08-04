@@ -7,6 +7,7 @@ Some examples of MAL languages are:
 * [exampleLang](https://github.com/mal-lang/exampleLang)
 * [vehicleLang](https://github.com/mal-lang/vehicleLang)
 
+# Chinmay Khuspare
 ## Creating a MAL language:
 
 For information on how to set up your development environment for
